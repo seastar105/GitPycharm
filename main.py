@@ -13,3 +13,5 @@ if __name__ == '__main__':
     print_hi("Github!")
 
     print_hi("Local")
+    
+    print_hi("Github 2!")
