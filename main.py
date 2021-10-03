@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print_hi('JHS')
     print_hi("AAA")
     print_hi("BBB")
+    print_hi("CCC")
