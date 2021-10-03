@@ -10,3 +10,4 @@ if __name__ == '__main__':
     print_hi("AAA")
     print_hi("BBB")
     print_hi("CCC")
+    print_hi("Github!")
